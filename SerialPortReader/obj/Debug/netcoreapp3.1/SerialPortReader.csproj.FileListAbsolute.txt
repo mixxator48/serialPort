@@ -1,0 +1,70 @@
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.csprojAssemblyReference.cache
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader_MarkupCompile.cache
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader_MarkupCompile.lref
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.exe
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.deps.json
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.runtimeconfig.json
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.runtimeconfig.dev.json
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.pdb
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.g.resources
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.AssemblyInfoInputs.cache
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.AssemblyInfo.cs
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.csproj.CoreCompileInputs.cache
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.csproj.CopyComplete
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.dll
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.pdb
+C:\Users\79148\Desktop\УЧЕБА\4 курс\2 семестр\Эргономика\2lab\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.genruntimeconfig.cache
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.exe
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.deps.json
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.runtimeconfig.json
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\SerialPortReader.pdb
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader_MarkupCompile.cache
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader_MarkupCompile.lref
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.g.resources
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.AssemblyInfo.cs
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.csproj.CopyComplete
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.dll
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.pdb
+C:\Users\nikit\source\repos\SerialPortReader\SerialPortReader\obj\Debug\netcoreapp3.1\SerialPortReader.genruntimeconfig.cache
